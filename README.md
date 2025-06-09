@@ -57,11 +57,11 @@ You can test the APIs using Postman or any REST client
 Sample POST request body for adding a student:
 
 ![Screenshot (26)](https://github.com/user-attachments/assets/d8e129ce-0aa9-41c0-a661-42833a076e71)
-Sample PUT request body for adding a student:
+Sample PUT request body for updating a student:
 ![Screenshot (27)](https://github.com/user-attachments/assets/78abc7e7-15ca-4ec1-9954-73921ae4f07d)
-Sample GET request body for adding a student:
+Sample GET request body for reading a student:
 ![Screenshot (30)](https://github.com/user-attachments/assets/9c479a1e-3c97-4805-b4ab-49f855e68850)
-Sample Delete request body for adding a student:
+Sample Delete request body for deleting a student:
 
 ![Screenshot (31)](https://github.com/user-attachments/assets/c7307724-15f0-4fb5-8c10-3b5e4b930b23)
 # Troubleshooting
